@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #87CEEB;
+    padding: 10px;
+}
+header a {
+    padding: 10px;
+    text-decoration: none;
+    background-color:rgb(123, 6, 233);
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(20, 224, 197);
+    background:darkmagenta;
+    padding: 5px;
+}
+footer p{
+    background:darkmagenta;
+    color:rgb(243, 243, 243);
+    padding: 5px;
+}
+nav{
+padding: 15px;
+text-align: center;
+}
+nav a{
+    text-decoration:none ;
+    border-radius: 5px;
+    border: 3px solid royalblue;
+    padding:2px;
+    margin:8px;
+    color:red;
+}
+.class {
+    background: rgb(2,0,36);
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,0,255,1) 0%, rgba(1,114,155,1) 2%, rgba(1,113,154,1) 5%, rgba(1,95,135,1) 26%, rgba(132,0,255,1) 46%, rgba(1,131,172,1) 75%);
+    border-radius: 5px;
+    border: 3px solid royalblue;
+    padding:4px;
+    margin:8px;
+}
+h2 {
+    color:blue;
+}
+a {
+    border:3px solid rgb(72, 72, 168);
+    border-radius: 4px;
+    padding:4px;
+    margin:5px;
+}
+h2 {
+   font-family: cursive;
+   font-size: 40px;
+}
+p. link {
+    color:rgb(40, 3, 107);
+    font-size:20px;
+    font-family: emoji;
+    
+}
